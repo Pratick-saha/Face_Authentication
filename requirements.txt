@@ -1,0 +1,6 @@
+PyQt5>=5.15
+tensorflow==2.10.0
+opencv-python
+deepface>=0.0.75
+numpy==1.23.5
+pillow
