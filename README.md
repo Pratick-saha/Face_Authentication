@@ -16,7 +16,7 @@ The system does not require any IoT hardware , works completely offline, and per
 1. Create and activate a virtual environment (recommended).
      - ## Commands
          - `python -m venv file_name` (create the virtual environment)
-         - `fiole_name\Scripts\activate` (actvate the created venv)
+         - `file_name\Scripts\activate` (actvate the created venv)
 2. use python version 3.9 .
 3. `pip install -r requirements.txt.`
      - This command will install the requirements needs (cuz all the local lib link already being saved in "requirements.txt")
